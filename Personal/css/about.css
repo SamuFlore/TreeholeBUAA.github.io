@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+
+}
+
+.intro {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+}
+.intro h2{
+    
+    font-size: 30px;
+}
+
+.intro h3 {
+    font-size: 20px;
+}
+
+.intro a {
+    color: #00ffdf;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.hint {
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+}
+
